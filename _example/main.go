@@ -185,10 +185,6 @@ var rows = []Row{
 			Style: colorize.Blink,
 		},
 		Column{
-			Text: "Fast blink text",
-			Style: colorize.FastBlink,
-		},
-		Column{
 			Text: "Reverse text",
 			Style: colorize.Reverse,
 		},
